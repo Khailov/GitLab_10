@@ -1,3 +1,1 @@
 for i in range(len(data_user))
-data_user[i] = new_data
-def even_nums(num1, num2, is_even):
